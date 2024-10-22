@@ -1,0 +1,6 @@
+- Loose coupling (Weak knowlegde association between component )
+- Separation of Concern SoC (Break your architecture into tiers) Separate your app in différente layers.
+- Low of Demeter LoD ( A -> B -> C )
+- SOLID
+- KISS
+- DRY
